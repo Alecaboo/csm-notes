@@ -1,0 +1,7 @@
+ #edns291  #design 
+
+Just wanted to put a note here in about the flowchart - I thought about making a full new odyssey map, but then I was starting to do it and just promptly started transferring a lot of what was already on my flowchart/advising sheet over, so I decided to just homogenize those a bit onto my flowchart that I already have saved and referred to. This is going off a plan I made with Chelsea last semester that I'm still on track for - I'm currently figuring out what I'm doing this summer, and the answer may not be an internship (even though I'm trying), which if not, would seriously make me consider a summer course. 
+
+Overall though happy with this because it gives me a lot of different options that fit a lot of my main "still going to Mines" odyssey maps - I'm getting to do a good bit of CS no matter where I go within or without DE, and I can get a really wide range of interdisciplinary skills, which is a big, big part of why I'm in DE and *not* just a CS student. 
+
+Also, I got a smidge carried away with some of my DE planning and checking of course requirements and such to make sure things lined up - a fun catch I had made there was realizing I can avoid having to take linear algebra as long as I don't take computer vision. In exchange for LinAlg/Computer vision I would be taking Intro to FEA and Machine Design, which feel like a really solid set of courses to have under my belt to successfully sell myself as having some of the quintessential mechanical engineering skills, so I'm not too upset about that. 
