@@ -13,54 +13,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/Semester 1/MATH213/MATH213 - 2024-11-22.md",
+                "file": "Year 2/Semester 1/MATH213/MATH213 - 2024-12-04.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MATH213 - 2024-11-22"
+              "title": "MATH213 - 2024-12-04"
             }
           },
           {
-            "id": "2aa3e06d4637eed9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year 2/Semester 1/MATH213/MATH213 - 2024-12-02.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MATH213 - 2024-12-02"
-            }
-          },
-          {
-            "id": "78f9587ac02334ea",
+            "id": "09751a1b26b1ec2b",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "System Folders / Excalidraw/ccw triangle type beat.md"
+                "file": "System Folders / Excalidraw/111 triangle.md"
               },
               "icon": "excalidraw-icon",
-              "title": "ccw triangle type beat"
-            }
-          },
-          {
-            "id": "19380354316d304d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "System Folders / Excalidraw/meandering about a sphere.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "meandering about a sphere"
+              "title": "111 triangle"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "conservative",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -112,7 +85,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -178,10 +152,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 2/Semester 1/MATH213/MATH213 - 2024-12-02.md"
+                "file": "Year 2/Semester 1/MATH213/MATH213 - 2024-12-04.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of MATH213 - 2024-12-02"
+              "title": "Outline of MATH213 - 2024-12-04"
             }
           },
           {
@@ -241,12 +215,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2aa3e06d4637eed9",
+  "active": "986f064e26a7b92e",
   "lastOpenFiles": [
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-11-19.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-12-02.md",
+    "Year 2/Semester 1/MATH213/MATH213 - 2024-11-18.md",
+    "Year 2/Semester 1/MATH213/MATH213 - 2024-11-15.md",
+    "Year 2/Semester 1/MATH213/MATH213 - 2024-12-04.md",
+    "System Folders / Excalidraw/111 triangle.md",
     "Year 2/Semester 1/MATH213/MATH213 - 2024-11-20.md",
+    "Year 2/Semester 1/MATH213/MATH213 - 2024-11-01.md",
+    "Year 2/Semester 1/MATH213/MATH213 - 2024-11-06.md",
+    "Year 2/Semester 1/HASS111/HASS 111 FA24 content review.md",
+    "Year 2/Semester 1/HASS111/HASS111 - 2024-09-04.md",
+    "Year 2/Semester 1/HASS111/HASS111 - 2024-10-02.md",
+    "Year 2/Semester 1/HASS111/HASS111 - Abstract.md",
+    "Year 2/Semester 1/HASS111/HASS111 - 2024-10-16 Citations.md",
+    "Year 2/Semester 1/HASS111/HASS111 - Big Paper.md",
+    "Year 2/Semester 1/MATH213/MATH213 - 2024-12-02.md",
     "Year 2/Semester 1/MATH213/MATH213 - 2024-11-22.md",
+    "System Folders / Excalidraw/marginally scuffed hemisphere.md",
+    "Year 2/Semester 1/MATH213/MATH213 - 2024-11-19.md",
     "Year 2/Semester 1/EDNS291/EDNS291 - Odyssey Maps Note.md",
     "Year 2/Semester 1/MATH213/MATH213 - 2024-11-26.md",
     "Year 2/Semester 1/EDNS291/DE Planning.canvas",
@@ -255,21 +242,8 @@
     "Year 2/Semester 1/MATH213/MATH213 - 2024-10-25.md",
     "Year 2/Semester 1/MATH213/MATH213 - 2024-10-28.md",
     "Year 2/Semester 1/MATH213/MATH213 - 2024-10-29.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-11-01.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-11-06.md",
     "Year 2/Semester 1/MATH213/MATH213 - 2024-11-12.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-11-15.md",
     "Year 2/Semester 1/MATH213/MATH213 - 2024-11-13.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-11-18.md",
-    "Year 1/Semester 2/MATH112/MATH112 - 2024-03-26.md",
-    "Year 1/Semester 2/MATH112/MATH112 - 2024-03-05.md",
-    "Year 1/Semester 1/EDNS151/EDNS151 - 2023-08-30.md",
-    "Year 1/Semester 1/EDNS151/EDNS151 - 2023-08-28.md",
-    "Year 1/Semester 2/MATH112/MATH112 - 2024-02-14.md",
-    "Year 1/Semester 2/MATH112/MATH112 - 2024-02-06.md",
-    "Untitled.md",
-    "System Folders / Excalidraw/meandering about a sphere.md",
-    "Year 2/Semester 1/HASS111/HASS111 - Abstract.md",
     "Year 2/Semester 1/EDNS291/DYL 4.canvas",
     "System Folders /Attachments/DYL4 - Mind Map 2.png",
     "System Folders /Attachments/Screenshot 2024-10-01 at 8.01.46 PM.png",
