@@ -8,29 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "986f064e26a7b92e",
+            "id": "09751a1b26b1ec2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Year 2/Semester 2/MATH225/MATH225 - 2025-01-06.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "09751a1b26b1ec2b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "System Folders / Excalidraw/111 triangle.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "111 triangle"
+              "title": "MATH225 - 2025-01-06"
             }
           }
         ]
@@ -64,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bliss",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -152,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Year 2/Semester 2/MATH225/MATH225 - 2025-01-06.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of MATH225 - 2025-01-06"
             }
           },
           {
@@ -215,35 +202,43 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "deaf344948347ad7",
+  "active": "09751a1b26b1ec2b",
   "lastOpenFiles": [
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-12-04.md",
+    "Year 2/Semester 2/EDNS292/EDNS292 - 2025-01-06.md",
+    "Year 2/Semester 2/MATH225/MATH225 - 2025-01-06.md",
+    "Year 2/Semester 2/CS200/CS200 - 2025-01-06.md",
+    "Year 2/Semester 2/CEEN241/CEEN241 - 2025-01-06.md",
+    "Year 2/Semester 1/MATH213/MATH213 - 2024-11-19.md",
+    "Year 2/Semester 1/MATH213/MATH213 - 2024-11-20.md",
     "Year 2/Semester 1/MATH213/MATH213 - 2024-11-18.md",
     "Year 2/Semester 1/MATH213/MATH213 - 2024-11-15.md",
-    "System Folders / Excalidraw/111 triangle.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-11-20.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-11-01.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-11-06.md",
-    "Year 2/Semester 1/HASS111/HASS 111 FA24 content review.md",
-    "Year 2/Semester 1/HASS111/HASS111 - 2024-09-04.md",
-    "Year 2/Semester 1/HASS111/HASS111 - 2024-10-02.md",
-    "Year 2/Semester 1/HASS111/HASS111 - Abstract.md",
-    "Year 2/Semester 1/HASS111/HASS111 - 2024-10-16 Citations.md",
-    "Year 2/Semester 1/HASS111/HASS111 - Big Paper.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-12-02.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-11-22.md",
-    "System Folders / Excalidraw/marginally scuffed hemisphere.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-11-19.md",
-    "Year 2/Semester 1/EDNS291/EDNS291 - Odyssey Maps Note.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-11-26.md",
-    "Year 2/Semester 1/EDNS291/DE Planning.canvas",
-    "System Folders / Excalidraw/ccw triangle type beat.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-11-25.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-10-25.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-10-28.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-10-29.md",
     "Year 2/Semester 1/MATH213/MATH213 - 2024-11-12.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-11-13.md",
+    "Year 2/Semester 1/MATH213/MATH213 - 2024-11-06.md",
+    "Year 2/Semester 1/MATH213/MATH213 - 2024-11-01.md",
+    "System Folders /Templates/CS200 - Template.md",
+    "System Folders /Templates/Derivative; Integral Evaluation Template.md",
+    "System Folders / Excalidraw/111 triangle.md",
+    "Year 2/Semester 2/MEGN261/MEGN261 - 2025-01-05.md",
+    "Year 2/Semester 2/MEGN261/CHGN121 - 2025-01-05.md",
+    "Year 2/Semester 2/MATH225/MATH225 - 2025-01-05.md",
+    "Year 2/Semester 2/EDNS292/EDNS292 - 2025-01-05.md",
+    "Year 2/Semester 2/CS200/CS200 - 2025-01-05.md",
+    "Year 2/Semester 2/CEEN241/CEEN241 - 2025-01-05.md",
+    "System Folders /Templates/Thermo Template.md",
+    "System Folders /Templates/Statics Template.md",
+    "System Folders /Templates/Series Template.md",
+    "System Folders /Templates/Square Root Template.md",
+    "System Folders /Templates/EDNS292 - Template.md",
+    "System Folders /Templates/DiffEq Template.md",
+    "Year 2/Semester 2/EDNS292",
+    "Year 2/Semester 2/MEGN261",
+    "Year 2/Semester 2/MATH225",
+    "Year 2/Semester 2/CS200",
+    "Year 2/Semester 2/CEEN241",
+    "Year 2/Untitled",
+    "Year 2/Semester 2",
+    "System Folders /Attachments/InitialSurvey.pdf",
+    "Year 2/Semester 1/EDNS291/DE Planning.canvas",
     "Year 2/Semester 1/EDNS291/DYL 4.canvas",
     "System Folders /Attachments/DYL4 - Mind Map 2.png",
     "System Folders /Attachments/Screenshot 2024-10-01 at 8.01.46 PM.png",
@@ -260,14 +255,6 @@
     "plugins/obsidian-icon-folder/icons/simple-icons/Derspiegel.svg",
     "plugins/obsidian-icon-folder/icons/simple-icons/iconsReduxsaga.svg",
     "plugins/obsidian-icon-folder/icons/simple-icons/iconsHulu.svg",
-    "plugins/obsidian-icon-folder/icons/simple-icons",
-    "plugins/obsidian-icon-folder/icons/remix-icons",
-    "plugins/obsidian-icon-folder/main.js",
-    "plugins/obsidian-icon-folder/styles.css",
-    "plugins/obsidian-icon-folder/data.json",
-    "plugins/obsidian-icon-folder/icons",
-    "plugins/obsidian-icon-folder",
-    "plugins",
     "Year 1/Semester 1/EDNS151/Group Meetings/First Group Meeting/ENDS151- First Group Meeting Upcycle Everything Canvas.canvas",
     "Year 1/Semester 1/EDNS151/Group Meetings/MERC Drafting/EDNS151 - System design.canvas",
     "EDNS151/Group Meetings/Second Group Meeting/EDNS151 - Second Group Meeting Canvas.canvas"
