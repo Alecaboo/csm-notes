@@ -8,29 +8,53 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1c9a58208e09c074",
+            "id": "84ddd5f5fd0cf001",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/Semester 2/CEEN241/CEEN241 - 2025-01-13.md",
+                "file": "Year 2/Semester 2/MEGN261/MEGN261 - 2025-01-17.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CEEN241 - 2025-01-13"
+              "title": "MEGN261 - 2025-01-17"
             }
           },
           {
-            "id": "b5a961ecf3b960a0",
+            "id": "2738c031669a026f",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "System Folders / Excalidraw/Drawing 2025-01-12 18.56.29.excalidraw.md"
+                "file": "System Folders / Excalidraw/Phase change.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-01-12 18.56.29.excalidraw"
+              "title": "Phase change"
+            }
+          },
+          {
+            "id": "e7f5068391d242cb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "System Folders / Excalidraw/Thermal energy resevoir sketch.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Thermal energy resevoir sketch"
+            }
+          },
+          {
+            "id": "9f5d763aa27d9bb9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "System Folders / Excalidraw/drod gas handwriting sample.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "drod gas handwriting sample"
             }
           }
         ]
@@ -64,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sqrt",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -151,10 +175,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 2/Semester 2/CEEN241/CEEN241 - 2025-01-13.md"
+                "file": "Year 2/Semester 2/MEGN261/MEGN261 - 2025-01-17.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of CEEN241 - 2025-01-13"
+              "title": "Outline of MEGN261 - 2025-01-17"
             }
           },
           {
@@ -214,35 +238,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1c9a58208e09c074",
+  "active": "84ddd5f5fd0cf001",
   "lastOpenFiles": [
-    "Year 2/Semester 2/MEGN261/MEGN261 - 2025-01-08.md",
-    "Year 2/Semester 2/CEEN241/CEEN241 - 2025-01-13.md",
-    "Year 2/Semester 2/MEGN261/MEGN261 - 2025-01-10.md",
-    "Year 2/Semester 2/CEEN241/CEEN241 - 2025-01-08.md",
-    "System Folders / Excalidraw/Drawing 2025-01-12 18.56.29.excalidraw.md",
-    "Year 2/Semester 2/CEEN241/CEEN241 - 2025-01-10.md",
-    "Year 2/Semester 2/Peer Mentor Application.md",
-    "System Folders / Excalidraw/Engine sketch shenanigans.md",
-    "Year 2/Semester 2/MATH225/MATH225 - 2025-01-10.md",
-    "Year 1/Semester 1/MATH111/MATH111 - 2023-09-15.md",
-    "Year 2/Semester 2/MATH225/MATH225 - 2025-01-08.md",
-    "Year 1/Semester 1/EDNS151/Group Meetings/First Group Meeting/ENDS151- First Group Meeting Upcycle Everything Canvas.canvas",
-    "Year 2/Semester 1/Domnick Tranfaglia - A Retrospective.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-11-25.md",
-    "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-11-19.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-11-19.md",
-    "Year 2/Semester 2/CS200/CS200 - 2025-01-10.md",
-    "System Folders / Excalidraw/Statics 3.4.md",
-    "System Folders / Excalidraw/Statics Day3Sketch3.md",
-    "System Folders / Excalidraw/Statics Day3Sketch2.md",
-    "System Folders / Excalidraw/Statics Day3Sketch1.md",
-    "System Folders /Templates/Statics Template.md",
-    "System Folders / Excalidraw/StaticsDay2Problem1.1.md",
-    "Year 2/Semester 1/MATH213/MATH213 - 2024-11-01.md",
+    "System Folders / Excalidraw/Phase change.md",
+    "Year 2/Semester 2/MEGN261/MEGN261 - 2025-01-17.md",
+    "Year 2/Semester 2/CEEN241/CEEN241 - 2025-01-17.md",
+    "Year 2/Semester 2/MATH225/MATH225 - 2025-01-17.md",
+    "System Folders / Excalidraw/Thermal energy resevoir sketch.md",
+    "System Folders / Excalidraw/drod gas handwriting sample.md",
+    "Year 2/Semester 2/MATH225/MATH225 - 2025-01-13.md",
+    "Year 2/Semester 2/MATH225/MATH225 - 2025-01-15.md",
+    "Year 2/Semester 2/CS200/CS200 - 2025-01-17.md",
+    "System Folders / Excalidraw/Statics 6.3.md",
+    "System Folders / Excalidraw/Statics 6.2.md",
+    "System Folders / Excalidraw/Drawing 2025-01-17 10.23.38.excalidraw.md",
+    "System Folders / Excalidraw/Statics 6.1.md",
+    "Year 2/Semester 2/CEEN241/CEEN241 - 2025-01-16.md",
+    "Year 1/Semester 1/EBGN201/Econ Tin Memo.md",
+    "Year 1/Semester 1/CHGN121/CHGN121 - 2023-09-01.md",
+    "Year 1/Semester 2/HASS298/Prasad/HASS298 - 2024-04-10.md",
+    "Year 2/Semester 1/HASS111/HASS111 - 2024-10-02.md",
+    "scratch.md",
     "Year 2/Semester 2/MATH225/MATH225 - 2025-01-06.md",
-    "Year 2/Semester 2/CS200/CS200 - 2025-01-08.md",
-    "System Folders / Excalidraw/Statics Day2Problem2.md",
+    "System Folders / Excalidraw/DiffEq Phase Portrait.md",
+    "Year 2/Semester 1/MATH213/MATH213 - 2024-09-23.md",
+    "Year 1/Semester 2/MATH112/MATH112 - 2024-02-02.md",
+    "Year 2/Semester 2/MEGN261/MEGN261 - 2025-01-15.md",
+    "Year 1/Semester 1/MATH111/MATH111 - 2023-09-29.md",
+    "Year 2/Semester 2/CS200/CS200 - 2025-01-15.md",
+    "Year 1/Semester 1/EDNS151/Group Meetings/First Group Meeting/ENDS151- First Group Meeting Upcycle Everything Canvas.canvas",
     "Year 2/Semester 2/EDNS292",
     "Year 2/Semester 2/MEGN261",
     "Year 2/Semester 2/MATH225",
