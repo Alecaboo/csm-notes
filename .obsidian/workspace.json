@@ -8,61 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "84ddd5f5fd0cf001",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year 2/Semester 2/MEGN261/MEGN261 - 2025-01-31.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MEGN261 - 2025-01-31"
-            }
-          },
-          {
             "id": "3c66f61ca427a936",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/Semester 2/CEEN241/CEEN241 - 2025-02-03.md",
+                "file": "Year 2/Semester 2/MATH225/MATH225 - 2025-02-10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CEEN241 - 2025-02-03"
-            }
-          },
-          {
-            "id": "d8dae739bb4cbf4f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "System Folders / Excalidraw/Drawing 2025-02-03 10.34.51.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-02-03 10.34.51.excalidraw"
-            }
-          },
-          {
-            "id": "addd96e0bf19cf3e",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.google.com/search?q=test&sei=D_2gZ6PdBbCL0PEPzeiu6Qo",
-                "title": "test - Google Search",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "test - Google Search"
+              "title": "MATH225 - 2025-02-10"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#notes",
+                "query": "forall",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -242,40 +201,42 @@
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "markdown-importer:Open format converter": false,
       "random-note:Open random note": false,
       "audio-recorder:Start/stop recording": false
     }
   },
   "active": "3c66f61ca427a936",
   "lastOpenFiles": [
-    "System Folders / Excalidraw/Drawing 2025-02-03 10.34.51.excalidraw.md",
-    "System Folders /Attachments/#1 Picture 2D Particle EQ.png",
-    "Year 2/Semester 2/CEEN241/CEEN241 - 2025-02-03.md",
-    "Year 2/Semester 2/MATH225/MATH225 - 2025-01-22.md",
-    "System Folders /Attachments/Attachments 1/Excalidraw 1/Drawing 2023-10-18 12.45.35.excalidraw.md",
-    "System Folders / Excalidraw/sphere cone intersection thing.md",
-    "Year 1/Semester 2/MATH112/MATH112 - 2024-03-13.md",
-    "Year 1/Semester 1/CSM101/CSM101 - 2023-09-21.md",
-    "System Folders / Excalidraw/Statics 7.4.md",
-    "Year 1/Semester 2/PHGN100/PHGN 100 - 2024-03-25.md",
-    "System Folders / Excalidraw/parameterized cylinder sketch.md",
-    "Year 1/Semester 1/EBGN201/Opportunity Cost.md",
-    "Year 1/Semester 2/MATH112/MATH112 - 2024-03-08.md",
-    "README.md",
-    "Year 2/Semester 2/MATH225/MATH225 - 2025-01-27.md",
-    "Year 1/Semester 2/PHGN100/PHGN100 Studios/PHGN 100STUDIO - 2024-01-30.md",
-    "Year 2/Semester 2/MATH225/MATH225 - 2025-01-31.md",
-    "Year 2/Semester 2/MEGN261/MEGN261 - 2025-01-31.md",
-    "Year 2/Semester 2/CS200/CS200 - 2025-01-31.md",
-    "Untitled.md",
-    "Untitled.canvas",
-    "Year 2/Semester 2/CEEN241/CEEN241 - 2025-01-31.md",
-    "System Folders / Excalidraw/Statics 9.2.md",
-    "System Folders / Excalidraw/Statics 9.1.md",
-    "Year 2/Semester 2/CEEN241/CEEN241 - 2025-01-27.md",
-    "Year 2/Semester 2/MEGN261/MEGN261 - 2025-01-17.md",
+    "Year 2/Semester 2/MATH225/MATH225 - 2025-02-07.md",
+    "Year 2/Semester 2/MATH225/MATH225 - 2025-02-10.md",
+    "System Folders / Excalidraw/Statics T centroid.md",
+    "System Folders / Excalidraw/Two Tanks.md",
+    "Year 2/Semester 2/MATH225/MATH225 - 2025-01-08.md",
+    "Year 2/Semester 2/CS200/CS200 - 2025-02-07.md",
+    "Year 2/Semester 2/CS200/CS200 - 2025-02-10.md",
+    "Year 2/Semester 2/CEEN241/CEEN241 - 2025-02-10.md",
+    "System Folders / Excalidraw/Statics centroid shenanigans.md",
+    "Year 2/Semester 2/MEGN261/MEGN261 - 2025-02-05.md",
+    "Year 2/Semester 2/MEGN261/MEGN261 - 2025-02-07.md",
+    "Year 2/Semester 2/MEGN261/MEGN261 - 2025-02-03.md",
     "Year 2/Semester 2/MEGN261/MEGN261 - 2025-01-24.md",
+    "Year 2/Semester 2/MEGN261/MEGN261 - 2025-01-27.md",
+    "Year 2/Semester 2/MEGN261/MEGN261 - 2025-01-31.md",
+    "Year 2/Semester 2/MEGN261/MEGN261 - 2025-01-10.md",
+    "Year 2/Semester 2/MEGN261/MEGN261 - 2025-01-13.md",
+    "Year 2/Semester 2/MATH225/wtfdiffeqproblem.md",
+    "Year 2/Semester 2/MATH225/MATH225 - 2025-02-03.md",
+    "Year 2/Semester 2/MATH225/MATH225 - 2025-02-05.md",
+    "Year 2/Semester 2/MATH225/MATH225 - 2025-01-27.md",
+    "Year 2/Semester 2/MATH225/Untitled 1.md",
+    "Year 2/Semester 2/MATH225/MATH225 - 2025-01-24.md",
+    "Year 2/Semester 2/MATH225/MATH225 - 2025-01-22.md",
+    "System Folders / Excalidraw/Diffeq Mixing Tank.md",
+    "Year 2/Semester 2/MATH225/Untitled.md",
+    "Year 1/Semester 2/MATH112.zip",
+    "Year 1/Semester 1/CHGN121/Resources/Annotated Periodic Table.pdf",
+    "System Folders /Attachments/#1 Picture 2D Particle EQ.png",
+    "Untitled.canvas",
     "System Folders /Attachments/Pasted image 20250122102606.png",
     "Year 1/Semester 1/EDNS151/Group Meetings/First Group Meeting/ENDS151- First Group Meeting Upcycle Everything Canvas.canvas",
     "Year 2/Semester 2/EDNS292",
@@ -292,9 +253,7 @@
     "System Folders /Attachments/Screenshot 2024-10-01 at 8.01.46 PM.png",
     "System Folders /Attachments/Screenshot 2024-10-01 at 7.59.36 PM.png",
     "System Folders /Attachments/Screenshot 2024-10-01 at 7.54.09 PM.png",
-    "Year 1/Semester 2/HASS298/Prasad",
     "System Folders /Attachments/99585306-0456-413C-9242-F7C7609A5039.jpg",
-    "Year 2/Semester 1/PHGN200/PHGN200 Studios",
     "Year 2/Semester 1/EDNS291/Helluva Welcome.canvas",
     "Year 1/Semester 2/MATH112/MATH112 Line Flowchart.canvas",
     "Year 1/Semester 1/EDNS151/EDNS151 Flowchart App Design.canvas",
