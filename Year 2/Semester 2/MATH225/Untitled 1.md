@@ -1,9 +1,21 @@
-$$\frac{dy}{dx}= \frac{xy-y}{y+1}, y(2)=1$$
-$$\frac{dy}{dx}= \frac{(y)(x-1)}{y+1}$$
-$$\frac{dy}{ (\frac{y}{y+1})}= (x-1)dx$$
-$$dy\frac{y+1}{y}=(x-1)dx $$
-$$\ln(y)+y = \frac{x^{2}}{2}- x+C$$
-$$\ln(y)+y = 2 -2+C$$
-$$\ln(y) +y = C$$
-$$C=1$$
+$$\frac{dy}{dt} - y = - \frac{t}{\sqrt{y}}$$
+$$\frac{dy}{dt}+ p(t)y  = -t*y^{\frac{-1}{2}}$$
+$$p(t) = -1$$
+$$n = \frac{-1}{2}$$
+$$u = y^{1 - \frac{-1}{2}}=y^{\frac{3}{2}}$$
+$$y = u^{\frac{2}{3}}$$
+$$\frac{dy}{dt}= \frac{dy}{du} \frac{du}{dt}$$
+$$\frac{dy}{dt}= \frac{2}{3}u^{\frac{2}{3}} \frac{du}{dt}$$
 
+$$\frac{2}{3}u^{\frac{2}{3}} \frac{du}{dt}  - u^{\frac{2}{3}}= -t (u^{\frac{2}{3}})^{\frac{-1}{2}}$$
+
+$$\frac{2}{3}u^{\frac{2}{3}} \frac{du}{dt}- u^{\frac{2}{3}}= -t(u^{\frac{-1}{3}})$$
+$$\frac{du}{dt}- \frac{3}{2}= -t (u^{- \frac{1}{3}})(\frac{3}{2}u^{\frac{-2}{3}})$$
+$$\frac{du}{dt}- \frac{3}{2}= \frac{-3}{2}t u^{-1}$$
+$$\frac{du}{dt}+ \frac{3}{2u}t= \frac{3}{2}$$
+$$\mu = e^{\int \frac{3}{2u}}= e^{\frac{3}{2}\ln(u)}=u^{\frac{3}{2}}$$
+$$t u^{\frac{3}{2}} = \int u^{\frac{3}{2}} * \frac{3}{2}$$
+$$tu^{\frac{3}{2}}= \frac{9}{4}u^{\frac{3}{2}}+C $$
+$$t(u)= \frac{9}{4}+ \frac{C}{u^{\frac{3}{2}}}$$
+$$t(y) = \frac{9}{4}+ \frac{C}{(y^{\frac{2}{3})^{\frac{3}{2}}}}= $$
+$$t(y) = \frac{9}{4}+ \frac{C}{y} \text{I mean, that's *an* explicit form? Right?}$$

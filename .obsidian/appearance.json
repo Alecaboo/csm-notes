@@ -2,5 +2,9 @@
   "accentColor": "",
   "baseFontSize": 16,
   "textFontFamily": "",
-  "showRibbon": true
+  "showRibbon": true,
+  "theme": "system",
+  "nativeMenus": true,
+  "translucency": false,
+  "cssTheme": ""
 }

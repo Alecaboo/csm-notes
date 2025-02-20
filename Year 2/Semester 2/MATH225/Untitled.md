@@ -1,8 +1,20 @@
-$$e^{xy} \frac{dy}{dx}= e^{-y}+(e^{-8x})(e^{-y})$$
-$$e^{x}e^{y} \frac{dy}{dx}= e^{-y}(1+e^{-8x })$$
-$$\frac{e^{y}}{e^{-y}} \frac{dy}{dx}= 1+e^{-8x}$$
-$$e^{2y} \frac{dy}{dx}= 1+e^{-8x}$$
-$$e^{2y}dy = 1+e^{-8x}dx$$
-$$\frac{e^{2y}}{2}= x- \frac{e^{-8x}}{8}$$
-$$e^{2y} = 2(x- \frac{e^{-8x}}{8})$$
-$$y = \frac{1}{2}\ln(2(x- \frac{e^{-8x}}{8}))$$
+$$\frac{dP}{dt}= \cos(t)P \left(1 - \frac{P}{100}\right)$$
+$$\frac{dP}{P(1- \frac{P}{100})}= \cos(t) dt$$
+$$\frac{dP}{P - \frac{P^{2}}{100}}=\cos(t)dt$$
+$$\int \cos(t) dt = \sin(t)$$
+$$\int \frac{dP}{P - \frac{P^{2}}{100}}= -\ln(\frac{100}{P}-1)+C$$
+$$-\ln(\frac{100}{P}-1) = \sin(t)+C$$
+$$e^{-\ln(\frac{100}{P}- 1)}= e^{\sin(t) + C}$$
+$$\frac{1}{\frac{100}{P}- 1}= e^{\sin(t)+C}$$
+$$1 = e^{\sin(t)+C }(\frac{100}{P}-1)$$
+$$e^{\sin(t)+C}(\frac{100}{P})= e^{\sin(t)+C}+1$$
+$$P(t)=\frac{100e^{\sin(t)+C}}{e^{\sin(t)+C}+1}$$
+$$P(0) = 50, 50 = \frac{100e^{C}}{e^{C}+1}$$
+$$50(e^{C}+1)=100e^{C}, 50e^{C}+50 = 100e^{C}, 50 = 50e^{C}, e^{C}=1, C=0$$
+---
+$$P(0)=100$$
+$$100 = \frac{100e^{C}}{e^{C}+1}$$
+$$100e^{C}+100 = 100e^{C}$$
+$$100 = 0 \text{ Uh. That's uh. Not exactly true. No solution?}$$
+
+
