@@ -8,41 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dd9c09bfb446088f",
+            "id": "cd1d96094cfc789b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/Semester 2/EDNS292/EDNS292 - Draft Interview Flow.md",
+                "file": "Year 2/Semester 2/MATH225/MATH225 - 2025-02-24.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EDNS292 - Draft Interview Flow"
-            }
-          },
-          {
-            "id": "a207e6140d91df07",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "System Folders / Excalidraw/Trapezoidal Distributed Load.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Trapezoidal Distributed Load"
-            }
-          },
-          {
-            "id": "cfccd35723fdb1d8",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "System Folders / Excalidraw/Statics Distributed Big Snow.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Statics Distributed Big Snow"
+              "title": "MATH225 - 2025-02-24"
             }
           }
         ]
@@ -77,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "beer",
+                "query": "\\int",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -229,34 +205,39 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "dd9c09bfb446088f",
+  "active": "cd1d96094cfc789b",
   "lastOpenFiles": [
-    "Year 2/Semester 2/EDNS292/EDNS292 - Empathy Reflection.md",
-    "Year 2/Semester 2/EDNS292/EDNS292 - Draft Interview Flow.md",
-    "Year 2/Semester 2/CEEN241/CEEN241 - 2025-02-12.md",
-    "Year 2/Semester 2/CEEN241/CEEN241 - 2025-02-14.md",
-    "Year 1/Semester 1/EBGN201/Econ Beer Memo.md",
-    "System Folders / Excalidraw/Distributed Loading Example.md",
-    "System Folders / Excalidraw/Statics Two Force Member Initial.md",
-    "Year 1/Misc Mines Housekeeping/Second Year Housing Zoom.md",
-    "Year 1/Semester 1/EBGN201/Econ Singapore Memo.md",
-    "Year 2/Semester 2/MATH225/Untitled 1.md",
-    "System Folders /Templates/Derivative; Integral Evaluation Template.md",
-    "System Folders / Excalidraw/PSSD A 1 17.md",
-    "Year 2/Semester 2/MEGN261/MEGN261 - 2025-01-13.md",
-    "Year 2/Semester 2/MATH225/MATH225 - 2025-02-12.md",
-    "Year 2/Semester 2/CS200/CS200 - 2025-01-10.md",
-    "Year 2/Semester 2/CS200/CS200 - 2025-01-13.md",
-    "Year 2/Semester 2/CS200/CS200 - 2025-01-17.md",
-    "Year 2/Semester 2/CS200/CS200 - 2025-01-22.md",
-    "Year 2/Semester 2/CS200/CS200 - 2025-01-31.md",
-    "Year 2/Semester 2/CS200/CS200 - 2025-02-12.md",
-    "Year 2/Semester 2/CS200/CS200 - 2025-02-14.md",
+    "Year 2/Semester 2/MEGN261/MEGN261 - 2025-01-15.md",
+    "Year 2/Semester 2/MATH225/MATH225 - 2025-02-24.md",
+    "Year 2/Semester 2/MEGN261/MEGN261 - 2025-02-24.md",
+    "Year 1/Semester 2/MATH112/MATH112 - 2024-03-26.md",
+    "Year 2/Semester 2/CS200/CS200 - 2025-02-24.md",
+    "Year 2/Semester 2/CEEN241/CEEN241 - 2025-02-24.md",
+    "Year 2/Semester 2/MEGN261/MEGN261 - 2025-02-20.md",
+    "System Folders /Attachments/Screenshot 2025-02-20 at 10.27.17 PM.png",
+    "System Folders /Attachments/Screenshot 2025-02-20 at 10.21.55 PM.png",
+    "System Folders /Attachments/Screenshot 2025-02-20 at 10.22.45 PM.png",
+    "System Folders /Attachments/Screenshot 2025-02-20 at 10.23.02 PM.png",
+    "System Folders /Attachments/Screenshot 2025-02-20 at 10.21.43 PM.png",
     "Year 2/Semester 2/MEGN261/MEGN261 - 2025-02-12.md",
-    "Year 2/Semester 2/CEEN241/CEEN241 - 2025-02-10.md",
-    "Year 2/Semester 2/CEEN241/CEEN241 - 2025-02-11.md",
-    "Year 2/Semester 2/EDNS292/EDNS292 - 2025-01-21.md",
-    "Year 2/Semester 2/EDNS292/EDNS292 - 2025-02-04.md",
+    "Year 2/Semester 2/MATH225/MATH225 - 2025-01-24.md",
+    "Year 2/Semester 2/MATH225/MATH225 - 2025-01-22.md",
+    "Year 2/Semester 2/MATH225/MATH225 - 2025-02-03.md",
+    "Year 2/Semester 2/MATH225/MATH225 - 2025-01-31.md",
+    "Year 2/Semester 2/MATH225/MATH225 - 2025-01-17.md",
+    "Year 2/Semester 2/MATH225/MATH225 - 2025-01-15.md",
+    "Year 2/Semester 2/MATH225/MATH225 - 2025-02-12.md",
+    "Year 2/Semester 2/MATH225/MATH225 - 2025-02-10.md",
+    "Year 2/Semester 2/MATH225/MATH225 - 2025-02-07.md",
+    "Year 2/Semester 2/MATH225/MATH225 - 2025-02-05.md",
+    "Year 2/Semester 2/MATH225/MATH225 - 2025-01-27.md",
+    "Year 2/Semester 2/MATH225/MATH225 - 2025-01-13.md",
+    "Year 2/Semester 2/MATH225/MATH225 - 2025-01-10.md",
+    "Year 2/Semester 2/MATH225/MATH225 - 2025-01-08.md",
+    "Year 2/Semester 2/MATH225/MATH225 - 2025-01-06.md",
+    "Year 2/Semester 2/EDNS292/EDNS292 - Draft Interview Flow.md",
+    "Year 2/Semester 2/EDNS292/EDNS292 - Empathy Reflection.md",
+    "Year 2/Semester 2/CEEN241/CEEN241 - 2025-02-12.md",
     "Year 2/Semester 2/MATH225.zip",
     "Year 1/Semester 2/MATH112.zip",
     "Year 1/Semester 1/CHGN121/Resources/Annotated Periodic Table.pdf",
@@ -276,14 +257,9 @@
     "System Folders /Attachments/DYL4 - Mind Map 2.png",
     "System Folders /Attachments/Screenshot 2024-10-01 at 8.01.46 PM.png",
     "System Folders /Attachments/Screenshot 2024-10-01 at 7.59.36 PM.png",
-    "System Folders /Attachments/Screenshot 2024-10-01 at 7.54.09 PM.png",
-    "System Folders /Attachments/99585306-0456-413C-9242-F7C7609A5039.jpg",
     "Year 2/Semester 1/EDNS291/Helluva Welcome.canvas",
     "Year 1/Semester 2/MATH112/MATH112 Line Flowchart.canvas",
     "Year 1/Semester 1/EDNS151/EDNS151 Flowchart App Design.canvas",
-    "plugins/obsidian-icon-folder/icons/simple-icons/Futurelearn.svg",
-    "plugins/obsidian-icon-folder/icons/simple-icons/Proxmox.svg",
-    "plugins/obsidian-icon-folder/icons/simple-icons/Derspiegel.svg",
     "Year 1/Semester 1/EDNS151/Group Meetings/MERC Drafting/EDNS151 - System design.canvas",
     "EDNS151/Group Meetings/Second Group Meeting/EDNS151 - Second Group Meeting Canvas.canvas"
   ]
