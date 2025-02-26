@@ -13,12 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/Semester 2/MATH225/MATH225 - 2025-02-24.md",
+                "file": "Year 2/Semester 2/CEEN241/CEEN241 - 2025-02-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MATH225 - 2025-02-24"
+              "title": "CEEN241 - 2025-02-26"
+            }
+          },
+          {
+            "id": "7d15522f985c5644",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "System Folders / Excalidraw/Statics Rigid Pipe Assembly FBD.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Statics Rigid Pipe Assembly FBD"
+            }
+          },
+          {
+            "id": "db794547163c2f0d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "System Folders / Excalidraw/Statics Rigid Pipe Assembly.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Statics Rigid Pipe Assembly"
             }
           }
         ]
@@ -207,12 +231,20 @@
   },
   "active": "cd1d96094cfc789b",
   "lastOpenFiles": [
-    "Year 2/Semester 2/MEGN261/MEGN261 - 2025-01-15.md",
+    "System Folders / Excalidraw/Statics Rigid Pipe Assembly FBD.md",
+    "Year 2/Semester 2/CEEN241/CEEN241 - 2025-02-26.md",
+    "System Folders / Excalidraw/Statics Rigid Pipe Assembly.md",
+    "System Folders / Excalidraw/Drawing 2025-02-26 10.14.44.excalidraw.md",
+    "Year 2/Semester 2/CEEN241/CEEN241 - 2025-02-10.md",
+    "Year 2/Semester 2/CEEN241/CEEN241 - 2025-02-11.md",
+    "Year 2/Semester 2/CEEN241/CEEN241 - 2025-02-12.md",
+    "Year 2/Semester 2/CEEN241/CEEN241 - 2025-02-24.md",
+    "Year 2/Semester 2/CEEN241/CEEN241 - 2025-02-14.md",
     "Year 2/Semester 2/MATH225/MATH225 - 2025-02-24.md",
+    "Year 2/Semester 2/MEGN261/MEGN261 - 2025-01-15.md",
     "Year 2/Semester 2/MEGN261/MEGN261 - 2025-02-24.md",
     "Year 1/Semester 2/MATH112/MATH112 - 2024-03-26.md",
     "Year 2/Semester 2/CS200/CS200 - 2025-02-24.md",
-    "Year 2/Semester 2/CEEN241/CEEN241 - 2025-02-24.md",
     "Year 2/Semester 2/MEGN261/MEGN261 - 2025-02-20.md",
     "System Folders /Attachments/Screenshot 2025-02-20 at 10.27.17 PM.png",
     "System Folders /Attachments/Screenshot 2025-02-20 at 10.21.55 PM.png",
@@ -230,14 +262,6 @@
     "Year 2/Semester 2/MATH225/MATH225 - 2025-02-10.md",
     "Year 2/Semester 2/MATH225/MATH225 - 2025-02-07.md",
     "Year 2/Semester 2/MATH225/MATH225 - 2025-02-05.md",
-    "Year 2/Semester 2/MATH225/MATH225 - 2025-01-27.md",
-    "Year 2/Semester 2/MATH225/MATH225 - 2025-01-13.md",
-    "Year 2/Semester 2/MATH225/MATH225 - 2025-01-10.md",
-    "Year 2/Semester 2/MATH225/MATH225 - 2025-01-08.md",
-    "Year 2/Semester 2/MATH225/MATH225 - 2025-01-06.md",
-    "Year 2/Semester 2/EDNS292/EDNS292 - Draft Interview Flow.md",
-    "Year 2/Semester 2/EDNS292/EDNS292 - Empathy Reflection.md",
-    "Year 2/Semester 2/CEEN241/CEEN241 - 2025-02-12.md",
     "Year 2/Semester 2/MATH225.zip",
     "Year 1/Semester 2/MATH112.zip",
     "Year 1/Semester 1/CHGN121/Resources/Annotated Periodic Table.pdf",
