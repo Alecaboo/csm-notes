@@ -1,0 +1,173 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\documentclass[
+]{article}
+\usepackage{xcolor}
+\usepackage{amsmath,amssymb}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\usepackage{bookmark}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  pdftitle={MATH225 - 2025-02-28},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\title{MATH225 - 2025-02-28}
+\author{}
+\date{}
+
+\begin{document}
+\maketitle
+
+\#notes \#math225 \#math
+
+\subsection{Still doing second order
+homogeneous}\label{still-doing-second-order-homogeneous}
+
+\begin{itemize}
+\tightlist
+\item
+  Which were, to recap, of the form {}
+\item
+  From the characteristic equation, we can end up with two real roots {}
+  and {}, which gives you the general solution {}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    You can also end up with one real (repeated) root, {}, which pops
+    out the general solution {}
+  \end{itemize}
+\item
+  We can also have complex conjugate roots!
+\end{itemize}
+
+\paragraph{Leading in with an example}\label{leading-in-with-an-example}
+
+\begin{itemize}
+\tightlist
+\item
+  Soooo... we\textquotesingle re going to use the characteristic
+  equation. {}
+\item
+  That looks rather the far side of factorable, so we\textquotesingle re
+  going to pop in ol tried and true, the quadratic formula
+\item
+  So our solution then becomes the properly ugly {}
+\item
+  This is certainly an answer of all time. However, we
+  won\textquotesingle t write our answers with these complex
+  shenanigans.
+\item
+  If you suppose the characteristic equation is {}, then {}
+\item
+  Since these two functions are linearly independent, sums and/or
+  differences of these terms are also solutions to the differential
+  equation.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    For example, {} is a solution that gives you {}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      That\textquotesingle s, believe it or not, a form of cosine. Go
+      tap ol\textquotesingle{} Euler in MATH225 - 2025-02-24
+
+      \begin{itemize}
+      \tightlist
+      \item
+        You get things like {}
+      \end{itemize}
+    \item
+      So this becomes {}
+    \end{itemize}
+  \item
+    So if we then have {}
+
+    \begin{itemize}
+    \tightlist
+    \item
+      and then {}
+    \item
+      Which then gives you {}
+    \end{itemize}
+  \end{itemize}
+\item
+  So then combing together the general solution is going to be {}
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\begin{itemize}
+\tightlist
+\item
+  Complex conjugate roots {} will be written as {}
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\paragraph{Brief Aside}\label{brief-aside}
+
+\begin{itemize}
+\tightlist
+\item
+  We can also write the solution as {}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    This is just trig shenanigans because sine is just cosine with a
+    phase shift, so this is collapsing it down to {} and {} as our
+    constants.
+  \end{itemize}
+\end{itemize}
+
+\subsubsection{More Exmaple}\label{more-exmaple}
+
+\begin{itemize}
+\tightlist
+\item
+  Character equation is going to be {}\\
+  - Boy howdy, that sure looks like a complex conjugate root.\\
+  - These roots have no real part, or {}
+\end{itemize}
+
+\end{document}
