@@ -1,4 +1,4 @@
-#notes #meche #megn261
+#meche #megn261
 
 # EES Code
 ![[Screenshot 2025-02-20 at 10.22.45 PM.png]]

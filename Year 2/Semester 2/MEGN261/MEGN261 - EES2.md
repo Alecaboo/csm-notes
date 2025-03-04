@@ -1,4 +1,4 @@
-=#meche #megn261
+#meche #megn261
 # Equations
 
 ![[equationsWindow.png]]
