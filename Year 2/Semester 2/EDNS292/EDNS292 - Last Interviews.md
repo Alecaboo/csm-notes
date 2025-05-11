@@ -1,0 +1,12 @@
+#edns292  #design 
+
+Writing this set of interview retrospectives *super* late, but, without further ado:
+
+## The Actually Normal Interview
+- Went on a wonderful site visit to Apollo Energy, where me and Alasdair spoke to the CEO, Alex Falconburg, and got a full tour of their facility, which I've elaborated slightly more on in the Site Visit assignment, but the short summary is that it was a really great experience. Alex was ready and willing to answer literally any question we could think of, and comes from a more technical background in roofing, so was able to answer a lot of questions on the roofing angle of small solar that we hadn't even really considered.
+## The Weird "Interview"
+- I also read extensively through meeting minutes for Norwood, Colorado's (successful) fight against getting a large scale solar plant implemented near their town - it was deeply fascinating to see all of the different reasons that people had to argue against solar, as well as that it wasn't just "grrr we hate solar," - most of the town wanted solar! It was more the specifics of this project that they were fighting against that ended up getting mildly sensationalized by media reporting on it, which, y'know, checks out. Definitely interesting to do a non-standard "interview," like this, and I feel like I got a lot from it by being able to sample three months worth of meetings in an afternoon instead of getting point samples from attempting to interview someone who was there.
+## Protocol Reflection
+- We followed the protocol we wrote out for Alex.... after an hour of talking and asking questions as we got a facility tour, but y'know, worked pretty well in that context. I unfortunately did not ask the meeting minutes any of our pre-prepared questions.
+## Informational Interviews
+- I had a really great informational interview last week with Kara Wilbur, who currently works in, in her own words, "Shooting space lasers." I connected successfully with Kara through Mines Little Theater, of which she's an alumni, and we talked at pretty good length regarding her experience working in a contracted environment dealing with the recent administration changes, as well as all of the cool shit she gets to do with firing lasers at things in assorted weird environments. 

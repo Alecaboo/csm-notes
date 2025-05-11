@@ -1,0 +1,4 @@
+## Team Members: Alec Malcangio & Bliss O'Shea
+## Team Name: Generic Team Name \#A77B79
+
+ We're analyzing the steam plant at Mines because it's a relevant project at scale with a good deal of actual industry applications - judging from that UNEP video and some additional research (for instance, the relatively recently modernized CU Boulder (I know) campus, from details at https://www.rmhgroup.com/projects/district-energy/cu-heating-and-cooling-plan/) district heating is a popular and environmentally buzzword friendly move, so there are pretty good odds that it's a system we'd have to deal with in industry or just in our future lives if we continue to live as part of a society and not just out in the woods. It also provides nice big, real numbers to work with instead of trying to analyze, say, a home's heating system with nowhere near the level of power relevant to what we've been working with.
