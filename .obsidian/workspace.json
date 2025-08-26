@@ -4,47 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "20231761c0c4664e",
+        "id": "e1cd31e7693c6a2f",
         "type": "tabs",
         "children": [
           {
-            "id": "b213257720f93152",
+            "id": "2aab685c52c73db1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/Semester 2/MEGN261/MEGN261 - 2025-05-06.md",
+                "file": "Year 3/Semester 1/EENG281/EENG281 - 2025-08-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MEGN261 - 2025-05-06"
+              "title": "EENG281 - 2025-08-26"
             }
           },
           {
-            "id": "abbbe7a21451dbf6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year 2/Semester 2/MATH225/MATH225 - 2025-04-23.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MATH225 - 2025-04-23"
-            }
-          },
-          {
-            "id": "077df2026daea1e3",
+            "id": "56b13e918cec9ef9",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "System Folders / Excalidraw/Drawing 2025-04-30 23.37.06.excalidraw.md"
+                "file": "System Folders / Excalidraw/Drawing 2025-08-26 14.19.03.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-04-30 23.37.06.excalidraw"
+              "title": "Drawing 2025-08-26 14.19.03.excalidraw"
             }
           }
         ]
@@ -79,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cursed as",
+                "query": "constant pressure",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -234,54 +220,56 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "b213257720f93152",
+  "active": "2aab685c52c73db1",
   "lastOpenFiles": [
-    "System Folders / Excalidraw/Cursed Ass Reheat.md",
-    "Year 2/Semester 2/MEGN261/MEGN261 - 2025-04-25.md",
-    "Year 2/Semester 2/MEGN261/MEGN261 - 2025-04-28.md",
-    "Year 2/Semester 2/MEGN261/MEGN261 - 2025-04-30.md",
+    "System Folders / Excalidraw/Drawing 2025-08-26 14.19.03.excalidraw.md",
+    "Year 3/Semester 1/EENG281/EENG281 - 2025-08-26.md",
+    "System Folders /Attachments/EENG281 - 2025-08-26 2025-08-26 14.18.33.excalidraw.md",
+    "System Folders /Templates/Subscript Template.md",
+    "System Folders /Templates/Series Template.md",
+    "System Folders /Templates/SolidMech Template.md",
+    "Year 2/Semester 2/MATH225/MATH225 - 2025-04-07.md",
+    "System Folders / Excalidraw/Drawing 2025-08-26 14.14.18.excalidraw.md",
+    "Year 3/Semester 1/CSCI358/CSCI358 - 2025-08-26.md",
+    "Year 3/Semester 1/EBGN321/EBGN321 - 2025-08-26.md",
+    "System Folders /Attachments/Recording 20250826115220.m4a",
+    "Year 1/Semester 2/PHGN100/PHGN 100 - 2024-04-24.md",
+    "Year 3/Semester 1/EENG281/EENG281 - 2025-08-25.md",
+    "Year 3/Semester 1/MEGN212/MEGN212 - 2025-08-26.md",
+    "System Folders /Templates/DiscreteMath - Template.md",
+    "Year 3/Semester 1/CSCI358/CS358 - 2025-08-26.md",
+    "Year 3/Semester 1/EDNS310/EDNS310 - 2025-08-26.md",
+    "System Folders /Templates/Circuits Template.md",
+    "System Folders /Templates/EEcon Template.md",
+    "System Folders /Templates/EDNS310- Template.md",
     "Year 2/Semester 2/MEGN261/MEGN261 - 2025-05-06.md",
-    "Year 2/Semester 2/EDNS292/EDNS292 - Individual Portfolio Piece.md",
-    "Year 2/Semester 2/MATH225/MATH225 - 2025-04-23.md",
-    "Year 2/Semester 2/MATH225/MATH225 - 2025-04-30.md",
-    "Year 2/Semester 2/MATH225/MATH225 - 2025-05-02.md",
-    "Year 2/Semester 2/CS200/CS200 - Final Project Proposal.md",
-    "Year 2/Semester 2/MATH225/Untitled.md",
+    "Year 2/Semester 2/CS200/CS200 - 2025-04-02.md",
     "System Folders / Excalidraw/Drawing 2025-04-30 23.37.06.excalidraw.md",
-    "Year 2/Semester 2/MATH225/Laplace Table.pdf",
-    "Year 1/Semester 2/PHGN100/PHGN 100 - 2024-02-28.md",
-    "Year 2/Semester 2/MATH225/MATH225 - 2025-04-02.md",
-    "System Folders / Excalidraw/Drawing 2025-04-30 23.09.28.excalidraw.md",
-    "Year 2/Semester 2/MATH225/MATH225 - 2025-03-10.md",
-    "Year 2/Semester 2/MATH225/MATH225 - 2025-03-05.md",
-    "Year 2/Semester 2/MATH225/MATH225 - 2025-03-12.md",
-    "Year 2/Semester 1/CSM101-TA/Task List.md",
-    "Year 2/Semester 2/EDNS292/EDNS292 - Site Visit.md",
-    "Year 2/Semester 2/EDNS292/EDNS292 - Last Interviews.md",
-    "Year 2/Semester 2/EDNS292/EDNS292 - Interviews Set 2.md",
-    "README.md",
-    "Year 2/Semester 2/CEEN241/CEEN241 - 2025-04-24.md",
-    "Year 2/Semester 2/CEEN241/CEEN241 - 2025-04-23.md",
-    "Year 1/Semester 2/PHGN100/PHGN100 Studios/PHGN 100 Studio 7.3.2 - 2024-04-25.md",
-    "Year 2/Semester 2/MATH225/Untitled",
-    "Year 2/Semester 2/MATH225/Kellyn Import/4-18-25 DiffEqu notes/Pasted image 20250418142459.png",
-    "Year 2/Semester 2/MATH225/Kellyn Import/4-18-25 DiffEqu notes/Pasted image 20250418142805.png",
-    "Year 2/Semester 2/MATH225/Kellyn Import/4-18-25 DiffEqu notes/Pasted image 20250418142736.png",
-    "Year 2/Semester 2/MATH225/Kellyn Import/4-18-25 DiffEqu notes/Pasted image 20250418142354.png",
-    "Year 2/Semester 2/MATH225/Kellyn Import/4-18-25 DiffEqu notes/Pasted image 20250418142301.png",
-    "Year 2/Semester 2/MATH225/Kellyn Import/4-18-25 DiffEqu notes/Pasted image 20250418141948.png",
-    "Year 2/Semester 2/MATH225/Kellyn Import/4-18-25 DiffEqu notes/Pasted image 20250418141754.png",
-    "Year 2/Semester 2/MATH225/Kellyn Import/4-18-25 DiffEqu notes/Pasted image 20250418141304.png",
-    "Year 2/Semester 2/MATH225/Kellyn Import/4-18-25 DiffEqu notes/Pasted image 20250418140955.png",
-    "Year 2/Semester 2/MATH225/Kellyn Import/4-18-25 DiffEqu notes/Pasted image 20250418140825.png",
-    "Year 2/Semester 2/MATH225/Kellyn Import/4-18-25 DiffEqu notes",
-    "Year 2/Semester 2/MATH225/Kellyn Import",
-    "Year 2/Semester 2/CS200/Lecture32_Array_Memory_Layout.pdf",
-    "System Folders /Attachments/EDNS292 - Interviews Set 2.pdf",
-    "Year 2/Semester 2/MATH225/~$TH225 - 2025-02-28.docx",
-    "Year 2/Semester 2/MATH225/MATH225 - 2025-02-28.tex",
-    "Year 2/Semester 2/MATH225/MATH225 - 2025-02-28.docx",
-    "Year 2/Semester 2/MATH225.zip",
+    "Year 2/Semester 2/MATH225/MATH225 - 2025-04-23.md",
+    "Year 2/Semester 2/MEGN261/MEGN261 TOC.md",
+    "Year 3/Semester 1/EDNS310",
+    "Year 3/Semester 1/EENG281",
+    "Year 3/Semester 1/EBGN321",
+    "Year 3/Semester 1/Untitled.md",
+    "Year 3/Semester 1/CSCI358",
+    "Year 3/Semester 1/MEGN212",
+    "Year 3/Semester 1",
+    "Year 3",
+    "Compilations/Calc + Diffeq/Calc 3/MATH213 - 2024-12-04.md",
+    "Compilations/Calc + Diffeq.zip",
+    "Compilations/Calc + Diffeq/Diffeq/Kellyn Import/4-18-25 DiffEqu notes/Pasted image 20250418142805.png",
+    "Compilations/Calc + Diffeq/Diffeq/Kellyn Import/4-18-25 DiffEqu notes/Pasted image 20250418142736.png",
+    "Compilations/Calc + Diffeq/Diffeq/Kellyn Import/4-18-25 DiffEqu notes/Pasted image 20250418140825.png",
+    "Compilations/Calc + Diffeq/Diffeq/Kellyn Import/4-18-25 DiffEqu notes/Pasted image 20250418142459.png",
+    "Compilations/Calc + Diffeq/Diffeq/Kellyn Import/4-18-25 DiffEqu notes/Pasted image 20250418142301.png",
+    "Compilations/Calc + Diffeq/Diffeq/Kellyn Import/4-18-25 DiffEqu notes/Pasted image 20250418142354.png",
+    "Compilations/Calc + Diffeq/Diffeq/Kellyn Import/4-18-25 DiffEqu notes/Pasted image 20250418141948.png",
+    "Compilations/Calc + Diffeq/Diffeq/Kellyn Import/4-18-25 DiffEqu notes/Pasted image 20250418141754.png",
+    "Compilations/Calc + Diffeq/Diffeq/Kellyn Import/4-18-25 DiffEqu notes/Pasted image 20250418141304.png",
+    "Compilations/Calc + Diffeq/Diffeq/Kellyn Import/4-18-25 DiffEqu notes/Pasted image 20250418140955.png",
+    "Compilations/Calc + Diffeq/Diffeq/Kellyn Import/4-18-25 DiffEqu notes",
+    "Compilations/Calc + Diffeq/Calc 2/MATH112 Line Flowchart.canvas",
+    "Compilations/Calc + Diffeq/MATH112 Comp/MATH112 Line Flowchart.canvas",
     "Untitled.canvas",
     "Year 1/Semester 1/EDNS151/Group Meetings/First Group Meeting/ENDS151- First Group Meeting Upcycle Everything Canvas.canvas",
     "Year 2/Semester 1/EDNS291/DE Planning.canvas",
@@ -289,7 +277,6 @@
     "Year 2/Semester 1/EDNS291/Helluva Welcome.canvas",
     "Year 1/Semester 2/MATH112/MATH112 Line Flowchart.canvas",
     "Year 1/Semester 1/EDNS151/EDNS151 Flowchart App Design.canvas",
-    "Year 1/Semester 1/EDNS151/Group Meetings/MERC Drafting/EDNS151 - System design.canvas",
-    "EDNS151/Group Meetings/Second Group Meeting/EDNS151 - Second Group Meeting Canvas.canvas"
+    "Year 1/Semester 1/EDNS151/Group Meetings/MERC Drafting/EDNS151 - System design.canvas"
   ]
 }

@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/Semester 2/MATH225/MATH225 - 2025-04-30.md",
+                "file": "Year 2/Semester 2/MEGN261/MEGN261 - 2025-01-08.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MATH225 - 2025-04-30"
+              "title": "MEGN261 - 2025-01-08"
             }
           }
         ],
@@ -60,10 +60,10 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "sig fig",
             "matchingCase": false,
             "explainSearch": false,
-            "collapseAll": false,
+            "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical"
           },
@@ -109,7 +109,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "959178e33dbf5e3c",
@@ -183,6 +183,9 @@
   },
   "active": "6553b5bc500062da",
   "lastOpenFiles": [
+    "System Folders /Attachments/CEEN241 - 2025-03-10 2025-03-10 10.35.45.excalidraw.md",
+    "Year 2/Semester 2/MEGN261/MEGN261 - 2025-01-24.md",
+    "Year 2/Semester 2/MATH225/MATH225 - 2025-04-30.md",
     "Year 2/Semester 2/MATH225/MATH225 - 2025-05-02.md",
     "Year 2/Semester 2/MATH225/MATH225 - 2025-01-06.md",
     "Year 1/Semester 1/CHGN121/CHGN121 - 2023-09-01.md",
@@ -209,9 +212,6 @@
     "PHGN100/PHGN100 Studios/PHGN 100 STUDIO PSSD - 2024-01-25.md",
     "Semester 1/CHGN121/CHGN121 - 2023-10-20.md",
     "Semester 1/CHGN121/CHGN121 - 2023-10-25.md",
-    "Semester 1/CHGN121/CHGN121 - 2023-10-27.md",
-    "Semester 1/CHGN121/CHGN121 - 2023-10-30.md",
-    "Semester 1/CHGN121/CHGN121 - 2023-11-01.md",
     "EDNS151/EDNS151 Flowchart App Design.canvas",
     "EDNS151/Group Meetings/First Group Meeting/ENDS151- First Group Meeting Upcycle Everything Canvas.canvas",
     "EDNS151/Group Meetings/MERC Drafting/EDNS151 - System design.canvas",
