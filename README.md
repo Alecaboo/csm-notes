@@ -6,3 +6,7 @@ Only plugin that's really relevant when viewing the vault (I don't include my co
 If you start reading from the beginning, you'll see some of the growing pains of me figuring out how in the world I actually take markdown notes. The start of calc 1 isn't even typeset! It's horrifying. Don't shit on me too much.
 
 Overall though, enjoy reading through my notes. They're completely accurate, and only mostly shitposts, so try to giggle at least once as you're reading through. Feel free to send this around to friends or whatever (I mean, it's a public repo, so you may have just gotten here through exploring), half the reason I take these notes is for them to be useful. 
+
+## Fall 2025 Update
+There's now the Compilation PDFs folder, which includes full PDFs of a variety of core classes. There are currently compilations for:
+- [Phys 2]()
