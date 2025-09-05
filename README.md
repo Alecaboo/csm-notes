@@ -9,4 +9,11 @@ Overall though, enjoy reading through my notes. They're completely accurate, and
 
 ## Fall 2025 Update
 There's now the Compilation PDFs folder, which includes full PDFs of a variety of core classes. There are currently compilations for:
-- [Phys 2]()
+- [Calc 1](https://github.com/Alecaboo/csm-notes/blob/main/Compilation%20PDFs/MATH111%20-%20Calc%201.pdf)
+- [Calc 2](https://github.com/Alecaboo/csm-notes/blob/main/Compilation%20PDFs/MATH112%20-%20Calc%202.pdf)
+- [Calc 3](https://github.com/Alecaboo/csm-notes/blob/main/Compilation%20PDFs/MATH213%20-%20Calc%203.pdf)
+- [Diffeq](https://github.com/Alecaboo/csm-notes/blob/main/Compilation%20PDFs/MATH225%20-%20DiffEq.pdf)
+- [Phys 1](https://github.com/Alecaboo/csm-notes/blob/main/Compilation%20PDFs/PHGN100%20-%20Phys%201.pdf)
+- [Phys 2](https://github.com/Alecaboo/csm-notes/blob/main/Compilation%20PDFs/PHGN200%20-%20Phys%202.pdf)
+- [Statics](https://github.com/Alecaboo/csm-notes/blob/main/Compilation%20PDFs/CEEN241%20-%20Statics.pdf)
+- [Thermo](https://github.com/Alecaboo/csm-notes/blob/main/Compilation%20PDFs/MEGN261%20-%20Thermo.pdf)
