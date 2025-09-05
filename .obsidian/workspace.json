@@ -13,15 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Year 3/Semester 1/EBGN321/EBGN321 - 2025-08-28.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "EBGN321 - 2025-08-28"
+            }
+          },
+          {
+            "id": "c875f01f70af7883",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year 3/Semester 1/EENG281/EENG281 - 2025-09-05.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "EENG281 - 2025-09-05"
+            }
+          },
+          {
+            "id": "590aaa1fc974317f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "System Folders / Excalidraw/Drawing 2025-09-03 15.42.02.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-09-03 15.42.02.excalidraw"
+            }
+          },
+          {
+            "id": "e89e2600b70b75e8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "System Folders /Attachments/EENG281 - 2025-09-03 2025-09-03 10.33.43.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "EENG281 - 2025-09-03 2025-09-03 10.33.43.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"kinda guy\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 484.5026054382324
+    "width": 421.5026054382324
   },
   "right": {
     "id": "f3af3d9579d7fd56",
@@ -195,6 +234,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -208,43 +248,47 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "02b21e6651c753c3",
+  "active": "c875f01f70af7883",
   "lastOpenFiles": [
+    "System Folders /Attachments/Screenshot 2025-09-05 at 10.47.18 AM.png",
+    "System Folders /Attachments/Screenshot 2025-09-05 at 10.42.55 AM.png",
+    "System Folders /Attachments/Screenshot 2025-09-05 at 10.37.52 AM.png",
+    "System Folders /Attachments/Screenshot 2025-09-05 at 10.31.22 AM.png",
+    "Year 3/Semester 1/EENG281/EENG281 - 2025-08-27.md",
+    "Year 3/Semester 1/EENG281/EENG281 - 2025-09-05.md",
+    "System Folders /Attachments/EENG281 - 2025-09-03 2025-09-03 10.33.43.excalidraw.md",
+    "Year 3/Semester 1/EENG281/EENG281 - 2025-08-25.md",
+    "Year 3/Semester 1/MEGN212/MEGN212 - 2025-09-02.md",
+    "Year 3/Semester 1/EENG281/EENG281 - 2025-09-03.md",
+    "Year 3/Semester 1/EBGN321/EBGN321 - 2025-08-26.md",
+    "Year 3/Semester 1/EBGN321/EBGN321 - 2025-08-28.md",
+    "Year 3/Semester 1/EBGN321/EBGN321 - 2025-09-02.md",
+    "System Folders / Excalidraw/Drawing 2025-09-03 15.42.02.excalidraw.md",
+    "System Folders / Excalidraw/Drawing 2025-09-03 10.33.40.excalidraw.md",
+    "System Folders /Attachments/EENG281 - 2025-09-03 2025-09-03 10.21.59.excalidraw.md",
+    "Year 3/Semester 1/CSCI358/CSCI358 - 2025-09-02.md",
+    "Year 3/Semester 1/CSCI358/CSCI358 - 2025-08-28.md",
+    "Base Testing (Silliness).base",
+    "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-10-01.md",
+    "Year 2/Semester 2/CS200/CS200 - 2025-01-13.md",
+    "Year 2/Semester 2/CS200/CS200 - 2025-01-10.md",
+    "Year 2/Semester 2/MATH225/MATH225 - 2025-03-28.md",
+    "Year 3/Semester 1/MEGN212/MEGN212 - 2025-08-28.md",
+    "Year 3/Semester 1/MEGN212/MEGN212 - 2025-08-26.md",
+    "Year 2/Semester 2/CEEN241/CEEN241 - Homework Links.md",
+    "README.md",
     "Year 1/Semester 1/CHGN121/CHGN121 TOC.md",
     "Compilation PDFs/CHGN121 - Chem 1.pdf",
     "Year 1/Semester 1/MATH111/MATH111 TOC.md",
     "Compilation PDFs/MATH111 - Calc 1.pdf",
     "Year 1/Semester 1/MATH111/MATH111 - 2023-11-01.md",
-    "Year 1/Semester 2/MATH112/MATH112 TOC.md",
     "Compilation PDFs/MATH112 - Calc 2.pdf",
-    "Year 1/Semester 2/PHGN100/PHGN100 TOC.md",
     "Compilation PDFs/PHGN100 - Phys 1.pdf",
-    "Year 1/Semester 2/PHGN100/PHGN100 - Block One.md",
-    "Year 1/Semester 2/PHGN100/PHGN100 - Block Two.md",
-    "Year 2/Semester 2/CEEN241/CEEN241 TOC.md",
     "Compilation PDFs/CEEN241 - Statics.pdf",
-    "Year 2/Semester 1/Dominick Tranfaglia - A Retrospective.md",
     "Compilation PDFs/MATH213 - Calc 3.pdf",
     "Compilation PDFs/MATH225 - DiffEq.pdf",
     "Compilation PDFs/PHGN200 - Phys 2.pdf",
-    "Year 2/Semester 1/PHGN200/PHGN200 - TOC.md",
-    "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-08-20.md",
-    "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-08-29.md",
-    "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-08-27.md",
-    "Year 2/Semester 1/PHGN200/PHGN 200 - 2024-08-22.md",
-    "Year 2/Semester 1/MATH213/MATH213 TOC.md",
     "Compilation PDFs/MEGN261 - Thermo.pdf",
-    "Year 2/Semester 2/MATH225/Math225 TOTC.md",
-    "Compilation PDFs",
-    "Year 2/Semester 2/MATH225/MATH225 TOC Test.md",
-    "Year 2/Semester 2/MATH225/MATH225 - 2025-02-03.md",
-    "Year 3/Semester 1/EENG281/EENG281 - 2025-08-27.md",
-    "Year 2/Semester 2/MATH225/wtfdiffeqproblem.md",
-    "Year 2/Semester 2/MATH225/Problem 5.6.md",
-    "System Folders /Attachments/EENG281 - 2025-08-27 2025-08-27 10.31.00.excalidraw.md",
-    "Year 3/Semester 1/EENG281/EENG281 - 2025-08-25.md",
-    "Year 2/Semester 2/MEGN261/MEGN261 TOC.md",
-    "Year 2/Semester 2/CS200/CS200 - 2025-02-12.md",
     "System Folders /Attachments/Screenshot 2025-08-26 at 3.10.35 PM.png",
     "Compilations/Calc + Diffeq/Diffeq/Kellyn Import/4-18-25 DiffEqu notes/Pasted image 20250418142805.png",
     "Compilations/Calc + Diffeq/Diffeq/Kellyn Import/4-18-25 DiffEqu notes/Pasted image 20250418142736.png",
@@ -252,9 +296,6 @@
     "Compilations/Calc + Diffeq/Diffeq/Kellyn Import/4-18-25 DiffEqu notes/Pasted image 20250418142459.png",
     "Compilations/Calc + Diffeq/Diffeq/Kellyn Import/4-18-25 DiffEqu notes/Pasted image 20250418142301.png",
     "Compilations/Calc + Diffeq/Diffeq/Kellyn Import/4-18-25 DiffEqu notes/Pasted image 20250418142354.png",
-    "Compilations/Calc + Diffeq/Diffeq/Kellyn Import/4-18-25 DiffEqu notes/Pasted image 20250418141948.png",
-    "Compilations/Calc + Diffeq/Diffeq/Kellyn Import/4-18-25 DiffEqu notes/Pasted image 20250418141754.png",
-    "Compilations/Calc + Diffeq/Diffeq/Kellyn Import/4-18-25 DiffEqu notes/Pasted image 20250418141304.png",
     "Compilations/Calc + Diffeq/Calc 2/MATH112 Line Flowchart.canvas",
     "Compilations/Calc + Diffeq/MATH112 Comp/MATH112 Line Flowchart.canvas",
     "Untitled.canvas",

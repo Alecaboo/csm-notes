@@ -1,0 +1,10 @@
+views:
+  - type: cards
+    name: Table
+    imageFit: contain
+    cardSize: 260
+  - type: table
+    name: View
+    filters:
+      and:
+        - file.hasTag("calc")
