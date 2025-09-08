@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 3/Semester 1/EBGN321/EBGN321 - 2025-08-28.md",
+                "file": "Year 3/Semester 1/EENG281/EENG281 - 2025-09-05.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EBGN321 - 2025-08-28"
+              "title": "EENG281 - 2025-09-05"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 3/Semester 1/EENG281/EENG281 - 2025-09-05.md",
+                "file": "Year 3/Semester 1/EENG281/EENG281 - 2025-09-08.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EENG281 - 2025-09-05"
+              "title": "EENG281 - 2025-09-08"
             }
           },
           {
@@ -59,8 +59,7 @@
               "title": "EENG281 - 2025-09-03 2025-09-03 10.33.43.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -248,21 +247,68 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "c875f01f70af7883",
+  "floating": {
+    "id": "2713c8c5177942d6",
+    "type": "floating",
+    "children": [
+      {
+        "id": "2e0c6d29fbcda179",
+        "type": "window",
+        "children": [
+          {
+            "id": "fdf27a4dadc6caa2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6fb81cac6a8c318d",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "System Folders /Attachments/EENG281 - 2025-09-08 2025-09-08 10.29.30.excalidraw.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "EENG281 - 2025-09-08 2025-09-08 10.29.30.excalidraw"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 244,
+        "y": 38,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0.5
+      }
+    ]
+  },
+  "active": "02b21e6651c753c3",
   "lastOpenFiles": [
+    "Year 3/Semester 1/EENG281/EENG281 - 2025-09-03.md",
+    "Year 3/Semester 1/EENG281/EENG281 - 2025-09-05.md",
+    "Year 3/Semester 1/EENG281/EENG281 - 2025-08-27.md",
+    "Year 3/Semester 1/EENG281/EENG281 - 2025-09-08.md",
+    "System Folders /Attachments/Screenshot 2025-09-08 at 10.38.42 AM.png",
+    "System Folders /Attachments/EENG281 - 2025-09-08 2025-09-08 10.35.27.excalidraw.md",
+    "System Folders /Attachments/EENG281 - 2025-09-08 2025-09-08 10.33.23.excalidraw.md",
+    "System Folders /Attachments/Screenshot 2025-09-08 at 10.32.28 AM.png",
+    "System Folders /Attachments/EENG281 - 2025-09-08 2025-09-08 10.29.30.excalidraw.md",
+    "System Folders /Attachments/Screenshot 2025-09-08 at 10.27.48 AM.png",
+    "Year 3/Semester 1/EBGN321/EBGN321 - 2025-08-28.md",
+    "System Folders /Attachments/EENG281 - 2025-09-08 2025-09-08 10.17.47.excalidraw.md",
+    "System Folders / Excalidraw/Drawing 2025-09-08 10.17.44.excalidraw.md",
+    "System Folders /Attachments/EENG281 - 2025-09-08 2025-09-08 10.11.02.excalidraw.md",
+    "Year 3/Semester 1/EBGN321/EBGN321 - 2025-09-02.md",
     "System Folders /Attachments/Screenshot 2025-09-05 at 10.47.18 AM.png",
     "System Folders /Attachments/Screenshot 2025-09-05 at 10.42.55 AM.png",
     "System Folders /Attachments/Screenshot 2025-09-05 at 10.37.52 AM.png",
     "System Folders /Attachments/Screenshot 2025-09-05 at 10.31.22 AM.png",
-    "Year 3/Semester 1/EENG281/EENG281 - 2025-08-27.md",
-    "Year 3/Semester 1/EENG281/EENG281 - 2025-09-05.md",
     "System Folders /Attachments/EENG281 - 2025-09-03 2025-09-03 10.33.43.excalidraw.md",
     "Year 3/Semester 1/EENG281/EENG281 - 2025-08-25.md",
     "Year 3/Semester 1/MEGN212/MEGN212 - 2025-09-02.md",
-    "Year 3/Semester 1/EENG281/EENG281 - 2025-09-03.md",
     "Year 3/Semester 1/EBGN321/EBGN321 - 2025-08-26.md",
-    "Year 3/Semester 1/EBGN321/EBGN321 - 2025-08-28.md",
-    "Year 3/Semester 1/EBGN321/EBGN321 - 2025-09-02.md",
     "System Folders / Excalidraw/Drawing 2025-09-03 15.42.02.excalidraw.md",
     "System Folders / Excalidraw/Drawing 2025-09-03 10.33.40.excalidraw.md",
     "System Folders /Attachments/EENG281 - 2025-09-03 2025-09-03 10.21.59.excalidraw.md",
@@ -273,15 +319,8 @@
     "Year 2/Semester 2/CS200/CS200 - 2025-01-13.md",
     "Year 2/Semester 2/CS200/CS200 - 2025-01-10.md",
     "Year 2/Semester 2/MATH225/MATH225 - 2025-03-28.md",
-    "Year 3/Semester 1/MEGN212/MEGN212 - 2025-08-28.md",
-    "Year 3/Semester 1/MEGN212/MEGN212 - 2025-08-26.md",
-    "Year 2/Semester 2/CEEN241/CEEN241 - Homework Links.md",
-    "README.md",
-    "Year 1/Semester 1/CHGN121/CHGN121 TOC.md",
     "Compilation PDFs/CHGN121 - Chem 1.pdf",
-    "Year 1/Semester 1/MATH111/MATH111 TOC.md",
     "Compilation PDFs/MATH111 - Calc 1.pdf",
-    "Year 1/Semester 1/MATH111/MATH111 - 2023-11-01.md",
     "Compilation PDFs/MATH112 - Calc 2.pdf",
     "Compilation PDFs/PHGN100 - Phys 1.pdf",
     "Compilation PDFs/CEEN241 - Statics.pdf",
@@ -292,10 +331,6 @@
     "System Folders /Attachments/Screenshot 2025-08-26 at 3.10.35 PM.png",
     "Compilations/Calc + Diffeq/Diffeq/Kellyn Import/4-18-25 DiffEqu notes/Pasted image 20250418142805.png",
     "Compilations/Calc + Diffeq/Diffeq/Kellyn Import/4-18-25 DiffEqu notes/Pasted image 20250418142736.png",
-    "Compilations/Calc + Diffeq/Diffeq/Kellyn Import/4-18-25 DiffEqu notes/Pasted image 20250418140825.png",
-    "Compilations/Calc + Diffeq/Diffeq/Kellyn Import/4-18-25 DiffEqu notes/Pasted image 20250418142459.png",
-    "Compilations/Calc + Diffeq/Diffeq/Kellyn Import/4-18-25 DiffEqu notes/Pasted image 20250418142301.png",
-    "Compilations/Calc + Diffeq/Diffeq/Kellyn Import/4-18-25 DiffEqu notes/Pasted image 20250418142354.png",
     "Compilations/Calc + Diffeq/Calc 2/MATH112 Line Flowchart.canvas",
     "Compilations/Calc + Diffeq/MATH112 Comp/MATH112 Line Flowchart.canvas",
     "Untitled.canvas",
