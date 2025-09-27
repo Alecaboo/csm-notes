@@ -3,7 +3,7 @@ views:
     name: Table
     imageFit: contain
     cardSize: 260
-  - type: table
+  - type: cards
     name: View
     filters:
       and:
