@@ -1,0 +1,35 @@
+- Follow the canvas course, it tells you basically everything
+- Project Lead is main point of contact with Aly - she greatly prefers having 60 contacts vs 180+, feel free to delegate but they should be main manager person
+- Digital media coordinator is finding visual elements to use throughout the campaign, etc, etc
+- Marketing and outreach coordinators are... doing outreach. Crazy, I know
+
+### Project Phases
+- Today we're talking about phase one, which is pre-campaign stuff
+- Timeline can be found under the syllabus in the canvas course 
+	- Goal is all of our phase 1 (pre-launch) materials by the end of the upcoming weekend, and over fall break our campaigns will be getting built
+- There's going to be a hard launch/kickstart type beat the week after that fall break
+- "Why do campaigns close Dec 2nd?"
+	- Campaigns deliberately close on Giving Tuesday for punchiness there
+- The goldmine website we're making will technically never go away, and we could theoretically send it out all year long
+- On the goldmine website there's the "projects" tab, which is where you'll be able to 'find' various projects, but if we give someone a direct link it'll work
+- for us - we're going to be refreshing and updating priorities, but the general vibe is going to be the same of our page
+- Modules on canvas has all of the good details
+- There's a template in each assignment with Word doc templates, **use those so she can conveniently copy paste**
+	- The application should have most of the goodies already
+- Gotta come up with a good punchy one sentence summary of who we are and what we're fundraising
+- Probably going to rewrite for the MLT page, but, w/e
+- https://weare.mines.edu/s/840/bp23/project.aspx?sid=840&gid=1&pgid=8296
+- We need a really good picture for the tile - might be the logo, but it's going to be the picture on the goldmine big tile layout, the embed on social media, fucking everywhere
+	- Basically, the photos get sprinkled throughout and they say really well what they do and what they're for. Assemble the word doc in a way that makes sense and she'll do her best to copy over
+- Video is optional, if we're interested and we strategically use it in marketing we can do that
+- We'll get a link with our page being live sometime around the 22nd, and we can look it over
+- Phase 2 launch parties get hosted by Foundation to get our whole org doin stuff
+	- There are perks! We get $100 of bonus gift if we reach the donor goal the night of the launch party, and we'll get fed
+	- The launch parties are Monday/Tuesday of Showcase tech week, which is just delightful.
+		- Plug goldmine during showcase?
+		- RSVP deadline is the 17th for launch party if we're sending a subteam over there.
+- Agenda for phase 2 meetings:
+	- Touch base on website, should be close to being built/done
+	- We'll jump into launch party planning, if we're not submitting RSVP beforehand be locked and ready to submit post meeting
+		- We'll then get into the phase 2 stuff in canvas
+- 

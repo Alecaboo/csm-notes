@@ -4,87 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "cf1291a7df5da623",
+        "id": "d917fc8bc03b32c2",
         "type": "tabs",
         "children": [
           {
-            "id": "a18fc27b337faf95",
+            "id": "c0bfc236d5849c68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 3/Semester 1/MEGN212/MEGN212 - 2025-09-12.md",
+                "file": "Year 3/Semester 1/Misc/Gold Mine Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MEGN212 - 2025-09-12"
+              "title": "Gold Mine Notes"
             }
           },
           {
-            "id": "99ae98f1656042b3",
+            "id": "bb0d89ebb7905f34",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/Semester 2/CEEN241/CEEN241 - Homework Links.md",
+                "file": "Year 3/Semester 1/EENG281/EENG281 - 2025-10-10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CEEN241 - Homework Links"
+              "title": "EENG281 - 2025-10-10"
             }
           },
           {
-            "id": "23920a8af3906720",
+            "id": "260b38610f301993",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "System Folders /Attachments/MEGN212 - 2025-09-25 2025-09-25 10.26.50.excalidraw.md"
+                "file": "Year 3/Semester 1/EBGN321/EBGN321 - 2025-10-14.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "MEGN212 - 2025-09-25 2025-09-25 10.26.50.excalidraw"
-            }
-          },
-          {
-            "id": "f459021bf3c8d4f7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "System Folders /Attachments/MEGN212 - 2025-09-18 2025-09-18 10.17.22.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "MEGN212 - 2025-09-18 2025-09-18 10.17.22.excalidraw"
-            }
-          },
-          {
-            "id": "47d673853144b04e",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "System Folders /Attachments/Screenshot 2025-09-15 at 10.04.14 AM.png"
-              },
-              "icon": "lucide-image",
-              "title": "Screenshot 2025-09-15 at 10.04.14 AM"
-            }
-          },
-          {
-            "id": "4abdb2bbae2d8598",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "System Folders / Excalidraw/Drawing 2025-09-12 20.10.01.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-09-12 20.10.01.excalidraw"
+              "icon": "lucide-file",
+              "title": "EBGN321 - 2025-10-14"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "delta",
+                "query": "piecewise",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -242,10 +208,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Year 2/Semester 2/CEEN241/CEEN241 - Homework Links.md"
+                "file": "Compilation PDFs/CEEN241 - Statics.pdf"
               },
               "icon": "lucide-info",
-              "title": "File properties for CEEN241 - Homework Links"
+              "title": "File properties for CEEN241 - Statics"
             }
           }
         ],
@@ -272,35 +238,38 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "99ae98f1656042b3",
+  "active": "260b38610f301993",
   "lastOpenFiles": [
-    "Year 3/Semester 1/MEGN212/Untitled 1.md",
-    "Year 3/Semester 1/MEGN212/MEGN212 - 2025-09-25.md",
-    "Year 3/Semester 1/MEGN212/MEGN212 - 2025-09-11.md",
-    "Year 3/Semester 1/MEGN212/MEGN212 - 2025-09-09.md",
-    "Year 3/Semester 1/MEGN212/MEGN212 - 2025-09-02.md",
+    "Year 3/Semester 1/MEGN212/MEGN212 - 2025-10-14.md",
+    "Year 3/Semester 1/EBGN321/EBGN321 - 2025-10-14.md",
+    "Year 3/Semester 1/EENG281/EENG281 - 2025-10-10.md",
+    "System Folders /Attachments/EENG281 - 2025-10-10 2025-10-10 12.36.31.excalidraw.md",
+    "System Folders /Attachments/EENG281 - 2025-10-10 2025-10-10 12.28.37.excalidraw.md",
+    "Year 2/Semester 2/MATH225/MATH225 - 2025-04-02.md",
+    "System Folders /Attachments/EENG281 - 2025-10-10 2025-10-10 12.09.17.excalidraw.md",
+    "Year 3/Semester 1/EBGN321/EBGN321 - 2025-10-09.md",
+    "Year 2/Semester 2/MATH225/MATH225 - 2025-01-22.md",
+    "Year 2/Semester 2/MATH225/MATH225 - 2025-01-24.md",
+    "Year 2/Semester 2/MATH225/MATH225 - 2025-01-27.md",
+    "Year 2/Semester 2/MATH225/MATH225 - 2025-01-31.md",
+    "Year 2/Semester 2/MATH225/MATH225 - 2025-02-03.md",
+    "Year 1/Semester 2/MATH112/MATH112 - 2024-01-26.md",
     "Year 2/Semester 2/CEEN241/CEEN241 - 2025-02-03.md",
-    "Year 2/Semester 2/CEEN241/CEEN241 - 2025-02-10.md",
-    "Year 2/Semester 2/CEEN241/CEEN241 - 2025-01-31.md",
-    "Year 2/Semester 2/CEEN241/CEEN241 - 2025-01-27.md",
-    "Year 2/Semester 2/CEEN241/CEEN241 - 2025-01-10.md",
-    "Year 3/Semester 1/Misc/USG 9-25-25.md",
-    "Year 3/Semester 1/CSCI358/CSCI358 - 2025-09-11.md",
+    "Year 3/Semester 1/CSCI358/CSCI358 - 2025-08-26.md",
+    "Year 2/Semester 2/CEEN241/CEEN241 - 2025-01-13.md",
+    "Year 2/Semester 2/CEEN241/CEEN241 - 2025-01-08.md",
+    "Compilation PDFs/MATH225 - DiffEq.pdf",
+    "Year 2/Semester 2/MATH225/MATH225 - 2025-02-05.md",
+    "Year 2/Semester 2/MATH225/MATH225 - 2025-01-17.md",
+    "Year 2/Semester 2/MATH225/MATH225 - 2025-02-12.md",
+    "Year 2/Semester 2/MATH225/MATH225 - 2025-02-10.md",
+    "Year 2/Semester 2/MATH225/MATH225 - 2025-02-26.md",
+    "Year 2/Semester 2/MATH225/MATH225 - 2025-02-28.md",
+    "Year 2/Semester 2/MATH225/MATH225 - 2025-02-24.md",
+    "Year 2/Semester 2/MATH225/MATH225 - 2025-02-07.md",
+    "System Folders /Attachments/Mohr circle handout.pdf",
+    "Compilation PDFs/CEEN241 - Statics.pdf",
     "Year 3/Semester 1/Misc",
-    "Year 3/Semester 1/CSCI358/CSCI358 - 2025-09-02.md",
-    "Year 2/Semester 2/CEEN241/CEEN241 - 2025-03-26.md",
-    "Year 2/Semester 2/CEEN241/CEEN241 - 2025-03-10.md",
-    "Year 2/Semester 2/CEEN241/CEEN241 - 2025-03-03.md",
-    "Year 2/Semester 2/CEEN241/CEEN241 - 2025-02-28.md",
-    "Year 2/Semester 2/CEEN241/CEEN241 - 2025-02-26.md",
-    "Year 2/Semester 2/CEEN241/CEEN241 - 2025-02-14.md",
-    "Year 2/Semester 2/CEEN241/CEEN241 - 2025-02-11.md",
-    "Year 2/Semester 2/CEEN241/CEEN241 - 2025-04-07.md",
-    "Year 2/Semester 2/CEEN241/CEEN241 - Homework Links.md",
-    "Year 3/Semester 1/MEGN212/MEGN212 - 2025-09-12.md",
-    "Year 3/Semester 1/MEGN212/MEGN212 - 2025-09-18.md",
-    "Year 3/Semester 1/EBGN321/EBGN321 - 2025-09-23.md",
-    "Year 3/Semester 1/EBGN321/EBGN321 - 2025-09-18.md",
     "System Folders /Attachments/Screenshot 2025-09-22 at 10.29.53 AM.png",
     "System Folders /Attachments/Screenshot 2025-09-22 at 10.21.00 AM.png",
     "System Folders /Attachments/Screenshot 2025-09-22 at 10.14.19 AM.png",
@@ -317,10 +286,7 @@
     "Compilation PDFs/MATH111 - Calc 1.pdf",
     "Compilation PDFs/MATH112 - Calc 2.pdf",
     "Compilation PDFs/PHGN100 - Phys 1.pdf",
-    "Compilation PDFs/CEEN241 - Statics.pdf",
     "Compilation PDFs/MATH213 - Calc 3.pdf",
-    "Compilation PDFs/MATH225 - DiffEq.pdf",
-    "Compilation PDFs/PHGN200 - Phys 2.pdf",
     "Compilations/Calc + Diffeq/Calc 2/MATH112 Line Flowchart.canvas",
     "Compilations/Calc + Diffeq/MATH112 Comp/MATH112 Line Flowchart.canvas",
     "Year 1/Semester 1/EDNS151/Group Meetings/First Group Meeting/ENDS151- First Group Meeting Upcycle Everything Canvas.canvas",
